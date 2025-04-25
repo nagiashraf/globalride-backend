@@ -5,13 +5,23 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{60D5785C-D395-45C1-8DE2-5E41203DFAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalRide.Api", "src\GlobalRide.Api\GlobalRide.Api.csproj", "{36F60773-8EE1-4B79-8788-2066D21F4107}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalRide.Api", "src\GlobalRide.Api\GlobalRide.Api.csproj", "{36F60773-8EE1-4B79-8788-2066D21F4107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalRide.Infrastructure", "src\GlobalRide.Infrastructure\GlobalRide.Infrastructure.csproj", "{90A32790-FC75-4BF1-8FDA-C4BB85F32B23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalRide.Infrastructure", "src\GlobalRide.Infrastructure\GlobalRide.Infrastructure.csproj", "{90A32790-FC75-4BF1-8FDA-C4BB85F32B23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalRide.Application", "src\GlobalRide.Application\GlobalRide.Application.csproj", "{A5A42A18-98B5-4F6D-8BF5-DE90FBEFCBD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalRide.Application", "src\GlobalRide.Application\GlobalRide.Application.csproj", "{A5A42A18-98B5-4F6D-8BF5-DE90FBEFCBD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalRide.Domain", "src\GlobalRide.Domain\GlobalRide.Domain.csproj", "{A388278C-1868-44DE-A46B-0FB66BF26DA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalRide.Domain", "src\GlobalRide.Domain\GlobalRide.Domain.csproj", "{A388278C-1868-44DE-A46B-0FB66BF26DA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0AB3BF05-4346-4AA6-1389-037BE0695223}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalRide.Domain.UnitTests", "tests\GlobalRide.Domain.UnitTests\GlobalRide.Domain.UnitTests.csproj", "{EFD064CE-A6F5-465E-83EE-C64851C3F0A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalRide.Application.UnitTests", "tests\GlobalRide.Application.UnitTests\GlobalRide.Application.UnitTests.csproj", "{B540B9AD-627D-4838-B221-070A4C9C3D65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalRide.Infrastructure.IntegrationTests", "tests\GlobalRide.Infrastructure.IntegrationTests\GlobalRide.Infrastructure.IntegrationTests.csproj", "{FDD12DF1-D1E3-4748-B3A1-E9EDC53017D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsCommon", "tests\TestsCommon\TestsCommon.csproj", "{87740F1B-4D77-4DAB-8D60-372F29551FE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +45,22 @@ Global
 		{A388278C-1868-44DE-A46B-0FB66BF26DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A388278C-1868-44DE-A46B-0FB66BF26DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A388278C-1868-44DE-A46B-0FB66BF26DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD064CE-A6F5-465E-83EE-C64851C3F0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD064CE-A6F5-465E-83EE-C64851C3F0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD064CE-A6F5-465E-83EE-C64851C3F0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD064CE-A6F5-465E-83EE-C64851C3F0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B540B9AD-627D-4838-B221-070A4C9C3D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B540B9AD-627D-4838-B221-070A4C9C3D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B540B9AD-627D-4838-B221-070A4C9C3D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B540B9AD-627D-4838-B221-070A4C9C3D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD12DF1-D1E3-4748-B3A1-E9EDC53017D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD12DF1-D1E3-4748-B3A1-E9EDC53017D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD12DF1-D1E3-4748-B3A1-E9EDC53017D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD12DF1-D1E3-4748-B3A1-E9EDC53017D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87740F1B-4D77-4DAB-8D60-372F29551FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87740F1B-4D77-4DAB-8D60-372F29551FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87740F1B-4D77-4DAB-8D60-372F29551FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87740F1B-4D77-4DAB-8D60-372F29551FE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +70,10 @@ Global
 		{90A32790-FC75-4BF1-8FDA-C4BB85F32B23} = {60D5785C-D395-45C1-8DE2-5E41203DFAF6}
 		{A5A42A18-98B5-4F6D-8BF5-DE90FBEFCBD2} = {60D5785C-D395-45C1-8DE2-5E41203DFAF6}
 		{A388278C-1868-44DE-A46B-0FB66BF26DA4} = {60D5785C-D395-45C1-8DE2-5E41203DFAF6}
+		{EFD064CE-A6F5-465E-83EE-C64851C3F0A5} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
+		{B540B9AD-627D-4838-B221-070A4C9C3D65} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
+		{FDD12DF1-D1E3-4748-B3A1-E9EDC53017D1} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
+		{87740F1B-4D77-4DAB-8D60-372F29551FE5} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F499A0BF-E321-4499-92AB-C3501647D6B3}

@@ -1,3 +1,8 @@
+using FluentValidation;
+
+using GlobalRide.Application.Common.Behaviors;
+using GlobalRide.Domain.Rentals;
+
 using Microsoft.Extensions.DependencyInjection;
 
 namespace GlobalRide.Application;
@@ -14,6 +19,17 @@ public static class DependencyInjection
     /// <returns>The same <see cref="IServiceCollection"/> instance so that multiple calls can be chained.</returns>
     public static IServiceCollection AddApplication(this IServiceCollection services)
     {
+        services.AddMediatR(config =>
+        {
+            config.RegisterServicesFromAssembly(typeof(DependencyInjection).Assembly);
+
+            config.AddOpenBehavior(typeof(ValidationBehavior<,>));
+        });
+
+        services.AddValidatorsFromAssemblyContaining(typeof(DependencyInjection));
+
+        services.AddTransient<IOneWayRentalService, OneWayRentalService>();
+
         return services;
     }
 }

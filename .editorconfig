@@ -362,7 +362,17 @@ dotnet_naming_style.s_camelcase.required_suffix =
 dotnet_naming_style.s_camelcase.word_separator = 
 dotnet_naming_style.s_camelcase.capitalization = camel_case
 
+### CA ###
+dotnet_diagnostic.CA1848.severity = none
+
+### SonarAnalyzer ###
+dotnet_diagnostic.S6964.severity = none
+
 #### StyleCop ####
+dotnet_diagnostic.SA0001.severity = none
 dotnet_diagnostic.SA1101.severity = none
+dotnet_diagnostic.SA1309.severity = none
+dotnet_diagnostic.SA1402.severity = none
+dotnet_diagnostic.SA1407.severity = none
 dotnet_diagnostic.SA1633.severity = none
 dotnet_diagnostic.SA1649.severity = none

@@ -1,0 +1,724 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "countryCode": "US",
+    "timeZone": "America/New_York",
+    "type": "Airport",
+    "capacity": 150,
+    "isOneWayDropoffAllowed": true,
+    "coordinate": {
+      "latitude": 40.7128,
+      "longitude": -74.0060
+    },
+    "translations": [
+      {
+        "languageCode": "en",
+        "name": "New York JFK Airport Branch",
+        "city": "New York",
+        "country": "United States"
+      },
+      {
+        "languageCode": "fr",
+        "name": "Succursale de l'aéroport JFK de New York",
+        "city": "New York",
+        "country": "États-Unis"
+      },
+      {
+        "languageCode": "es",
+        "name": "Sucursal del Aeropuerto JFK de Nueva York",
+        "city": "Nueva York",
+        "country": "Estados Unidos"
+      },
+      {
+        "languageCode": "ar",
+        "name": "فرع مطار جي أف كي بنيويورك",
+        "city": "نيويورك",
+        "country": "الولايات المتحدة"
+      }
+    ]
+  },
+  {
+    "id": "f81d4fae-7dec-11d0-a765-00a0c91e6bf6",
+    "countryCode": "US",
+    "timeZone": "America/Los_Angeles",
+    "type": "Airport",
+    "capacity": 200,
+    "isOneWayDropoffAllowed": true,
+    "coordinate": {
+        "latitude": 34.0522,
+        "longitude": -118.2437
+    },
+    "translations": [
+        {
+            "languageCode": "en",
+            "name": "Los Angeles LAX Airport Branch",
+            "city": "Los Angeles",
+            "country": "United States"
+        },
+        {
+            "languageCode": "fr",
+            "name": "Succursale de l'aéroport LAX de Los Angeles",
+            "city": "Los Angeles",
+            "country": "États-Unis"
+        },
+        {
+            "languageCode": "es",
+            "name": "Sucursal del Aeropuerto LAX de Los Ángeles",
+            "city": "Los Ángeles",
+            "country": "Estados Unidos"
+        },
+        {
+            "languageCode": "ar",
+            "name": "فرع مطار لوس أنجلوس لآكس",
+            "city": "لوس أنجلوس",
+            "country": "الولايات المتحدة"
+        }
+    ]
+},
+{
+    "id": "d79e1c3d-bf42-4691-8c89-34ecf1b5b8a7",
+    "countryCode": "GB",
+    "timeZone": "Europe/London",
+    "type": "Downtown",
+    "capacity": 100,
+    "isOneWayDropoffAllowed": false,
+    "coordinate": {
+        "latitude": 51.5074,
+        "longitude": -0.1278
+    },
+    "translations": [
+        {
+            "languageCode": "en",
+            "name": "London Downtown Branch",
+            "city": "London",
+            "country": "United Kingdom"
+        },
+        {
+            "languageCode": "fr",
+            "name": "Succursale du centre-ville de Londres",
+            "city": "Londres",
+            "country": "Royaume-Uni"
+        },
+        {
+            "languageCode": "es",
+            "name": "Sucursal del Centro de Londres",
+            "city": "Londres",
+            "country": "Reino Unido"
+        },
+        {
+            "languageCode": "ar",
+            "name": "فرع وسط لندن",
+            "city": "لندن",
+            "country": "المملكة المتحدة"
+        }
+    ]
+},
+  {
+      "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "countryCode": "FR",
+      "timeZone": "Europe/Paris",
+      "type": "Downtown",
+      "capacity": 75,
+      "isOneWayDropoffAllowed": false,
+      "coordinate": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+      },
+      "translations": [
+          {
+              "languageCode": "en",
+              "name": "Paris Downtown Branch",
+              "city": "Paris",
+              "country": "France"
+          },
+          {
+              "languageCode": "fr",
+              "name": "Succursale du centre-ville de Paris",
+              "city": "Paris",
+              "country": "France"
+          },
+          {
+              "languageCode": "es",
+              "name": "Sucursal del centro de París",
+              "city": "París",
+              "country": "Francia"
+          },
+          {
+              "languageCode": "ar",
+              "name": "فرع وسط مدينة باريس",
+              "city": "باريس",
+              "country": "فرنسا"
+          }
+      ]
+  },
+  {
+      "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "countryCode": "ES",
+      "timeZone": "Europe/Madrid",
+      "type": "Airport",
+      "capacity": 200,
+      "isOneWayDropoffAllowed": true,
+      "coordinate": {
+          "latitude": 40.4168,
+          "longitude": -3.7038
+      },
+      "translations": [
+          {
+              "languageCode": "en",
+              "name": "Madrid Barajas Airport Branch",
+              "city": "Madrid",
+              "country": "Spain"
+          },
+          {
+              "languageCode": "fr",
+              "name": "Succursale de l'aéroport de Barajas de Madrid",
+              "city": "Madrid",
+              "country": "Espagne"
+          },
+          {
+              "languageCode": "es",
+              "name": "Sucursal del Aeropuerto de Barajas de Madrid",
+              "city": "Madrid",
+              "country": "España"
+          },
+          {
+              "languageCode": "ar",
+              "name": "فرع مطار باراخاس مدريد",
+              "city": "مدريد",
+              "country": "إسبانيا"
+          }
+      ]
+  },
+  {
+      "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "countryCode": "AE",
+      "timeZone": "Asia/Dubai",
+      "type": "Downtown",
+      "capacity": 100,
+      "isOneWayDropoffAllowed": true,
+      "coordinate": {
+          "latitude": 25.276987,
+          "longitude": 55.296249
+      },
+      "translations": [
+          {
+              "languageCode": "en",
+              "name": "Dubai Downtown Branch",
+              "city": "Dubai",
+              "country": "United Arab Emirates"
+          },
+          {
+              "languageCode": "fr",
+              "name": "Succursale du centre-ville de Dubaï",
+              "city": "Dubaï",
+              "country": "Émirats Arabes Unis"
+          },
+          {
+              "languageCode": "es",
+              "name": "Sucursal del centro de Dubái",
+              "city": "Dubái",
+              "country": "Emiratos Árabes Unidos"
+          },
+          {
+              "languageCode": "ar",
+              "name": "فرع وسط مدينة دبي",
+              "city": "دبي",
+              "country": "الإمارات العربية المتحدة"
+          }
+      ]
+  },
+  {
+      "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "countryCode": "DE",
+      "timeZone": "Europe/Berlin",
+      "type": "Airport",
+      "capacity": 180,
+      "isOneWayDropoffAllowed": true,
+      "coordinate": {
+          "latitude": 52.5200,
+          "longitude": 13.4050
+      },
+      "translations": [
+          {
+              "languageCode": "en",
+              "name": "Berlin Brandenburg Airport Branch",
+              "city": "Berlin",
+              "country": "Germany"
+          },
+          {
+              "languageCode": "fr",
+              "name": "Succursale de l'aéroport de Berlin Brandenburg",
+              "city": "Berlin",
+              "country": "Allemagne"
+          },
+          {
+              "languageCode": "es",
+              "name": "Sucursal del Aeropuerto de Berlín Brandeburgo",
+              "city": "Berlín",
+              "country": "Alemania"
+          },
+          {
+              "languageCode": "ar",
+              "name": "فرع مطار برلين براندنبورغ",
+              "city": "برلين",
+              "country": "ألمانيا"
+          }
+      ]
+  },
+  {
+      "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "countryCode": "IT",
+      "timeZone": "Europe/Rome",
+      "type": "Downtown",
+      "capacity": 90,
+      "isOneWayDropoffAllowed": false,
+      "coordinate": {
+          "latitude": 41.9028,
+          "longitude": 12.4964
+      },
+      "translations": [
+          {
+              "languageCode": "en",
+              "name": "Rome Downtown Branch",
+              "city": "Rome",
+              "country": "Italy"
+          },
+          {
+              "languageCode": "fr",
+              "name": "Succursale du centre-ville de Rome",
+              "city": "Rome",
+              "country": "Italie"
+          },
+          {
+              "languageCode": "es",
+              "name": "Sucursal del centro de Roma",
+              "city": "Roma",
+              "country": "Italia"
+          },
+          {
+              "languageCode": "ar",
+              "name": "فرع وسط مدينة روما",
+              "city": "روما",
+              "country": "إيطاليا"
+          }
+      ]
+  },
+  {
+      "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+      "countryCode": "JP",
+      "timeZone": "Asia/Tokyo",
+      "type": "Airport",
+      "capacity": 220,
+      "isOneWayDropoffAllowed": true,
+      "coordinate": {
+          "latitude": 35.6895,
+          "longitude": 139.6917
+      },
+      "translations": [
+          {
+              "languageCode": "en",
+              "name": "Tokyo Narita Airport Branch",
+              "city": "Tokyo",
+              "country": "Japan"
+          },
+          {
+              "languageCode": "fr",
+              "name": "Succursale de l'aéroport de Narita à Tokyo",
+              "city": "Tokyo",
+              "country": "Japon"
+          },
+          {
+              "languageCode": "es",
+              "name": "Sucursal del Aeropuerto de Narita en Tokio",
+              "city": "Tokio",
+              "country": "Japón"
+          },
+          {
+              "languageCode": "ar",
+              "name": "فرع مطار ناريتا طوكيو",
+              "city": "طوكيو",
+              "country": "اليابان"
+          }
+      ]
+  },
+  {
+      "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+      "countryCode": "CA",
+      "timeZone": "America/Toronto",
+      "type": "Downtown",
+      "capacity": 80,
+      "isOneWayDropoffAllowed": true,
+      "coordinate": {
+          "latitude": 45.4215,
+          "longitude": -75.6972
+      },
+      "translations": [
+          {
+              "languageCode": "en",
+              "name": "Ottawa Downtown Branch",
+              "city": "Ottawa",
+              "country": "Canada"
+          },
+          {
+              "languageCode": "fr",
+              "name": "Succursale du centre-ville d'Ottawa",
+              "city": "Ottawa",
+              "country": "Canada"
+          },
+          {
+              "languageCode": "es",
+              "name": "Sucursal del centro de Ottawa",
+              "city": "Ottawa",
+              "country": "Canadá"
+          },
+          {
+              "languageCode": "ar",
+              "name": "فرع وسط مدينة أوتاوا",
+              "city": "أوتاوا",
+              "country": "كندا"
+          }
+      ]
+  },
+  {
+      "id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+      "countryCode": "AU",
+      "timeZone": "Australia/Sydney",
+      "type": "Airport",
+      "capacity": 250,
+      "isOneWayDropoffAllowed": true,
+      "coordinate": {
+          "latitude": -33.8688,
+          "longitude": 151.2093
+      },
+      "translations": [
+          {
+              "languageCode": "en",
+              "name": "Sydney Kingsford Smith Airport Branch",
+              "city": "Sydney",
+              "country": "Australia"
+          },
+          {
+              "languageCode": "fr",
+              "name": "Succursale de l'aéroport de Sydney Kingsford Smith",
+              "city": "Sydney",
+              "country": "Australie"
+          },
+          {
+              "languageCode": "es",
+              "name": "Sucursal del Aeropuerto de Sydney Kingsford Smith",
+              "city": "Sídney",
+              "country": "Australia"
+          },
+          {
+              "languageCode": "ar",
+              "name": "فرع مطار سيدني كينغسفورد سميث",
+              "city": "سيدني",
+              "country": "أستراليا"
+          }
+      ]
+  },
+  {
+      "id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+      "countryCode": "BR",
+      "timeZone": "America/Sao_Paulo",
+      "type": "Downtown",
+      "capacity": 120,
+      "isOneWayDropoffAllowed": false,
+      "coordinate": {
+          "latitude": -23.5505,
+          "longitude": -46.6333
+      },
+      "translations": [
+          {
+              "languageCode": "en",
+              "name": "São Paulo Downtown Branch",
+              "city": "São Paulo",
+              "country": "Brazil"
+          },
+          {
+              "languageCode": "fr",
+              "name": "Succursale du centre-ville de São Paulo",
+              "city": "São Paulo",
+              "country": "Brésil"
+          },
+          {
+              "languageCode": "es",
+              "name": "Sucursal del centro de São Paulo",
+              "city": "São Paulo",
+              "country": "Brasil"
+          },
+          {
+              "languageCode": "ar",
+              "name": "فرع وسط مدينة ساو باولو",
+              "city": "ساو باولو",
+              "country": "البرازيل"
+          }
+      ]
+  },
+  {
+    "id": "ca8f9c6d-83e4-4c55-b981-96ad20718b1f",
+    "countryCode": "ZA",
+    "timeZone": "Africa/Johannesburg",
+    "type": "Downtown",
+    "capacity": 70,
+    "isOneWayDropoffAllowed": false,
+    "coordinate": {
+        "latitude": -26.2041,
+        "longitude": 28.0473
+    },
+    "translations": [
+        {
+            "languageCode": "en",
+            "name": "Johannesburg Downtown Branch",
+            "city": "Johannesburg",
+            "country": "South Africa"
+        },
+        {
+            "languageCode": "fr",
+            "name": "Succursale du centre-ville de Johannesburg",
+            "city": "Johannesbourg",
+            "country": "Afrique du Sud"
+        },
+        {
+            "languageCode": "es",
+            "name": "Sucursal del Centro de Johannesburgo",
+            "city": "Johannesburgo",
+            "country": "Sudáfrica"
+        },
+        {
+            "languageCode": "ar",
+            "name": "فرع وسط مدينة جوهانسبرغ",
+            "city": "جوهانسبرغ",
+            "country": "جنوب أفريقيا"
+        }
+    ]
+},
+{
+    "id": "dc417de6-31bf-48f9-9f72-c6edc54b7887",
+    "countryCode": "IN",
+    "timeZone": "Asia/Kolkata",
+    "type": "Airport",
+    "capacity": 220,
+    "isOneWayDropoffAllowed": true,
+    "coordinate": {
+        "latitude": 28.5562,
+        "longitude": 77.1000
+    },
+    "translations": [
+        {
+            "languageCode": "en",
+            "name": "New Delhi Indira Gandhi Airport Branch",
+            "city": "New Delhi",
+            "country": "India"
+        },
+        {
+            "languageCode": "fr",
+            "name": "Succursale de l'aéroport Indira Gandhi de New Delhi",
+            "city": "New Delhi",
+            "country": "Inde"
+        },
+        {
+            "languageCode": "es",
+            "name": "Sucursal del Aeropuerto Indira Gandhi de Nueva Delhi",
+            "city": "Nueva Delhi",
+            "country": "India"
+        },
+        {
+            "languageCode": "ar",
+            "name": "فرع مطار أنديرا غاندي بنيودلهي",
+            "city": "نيودلهي",
+            "country": "الهند"
+        }
+    ]
+},
+{
+    "id": "b35723f3-8c7b-4053-ae63-fd3a1e2bce23",
+    "countryCode": "EG",
+    "timeZone": "Africa/Cairo",
+    "type": "Downtown",
+    "capacity": 95,
+    "isOneWayDropoffAllowed": false,
+    "coordinate": {
+        "latitude": 30.0444,
+        "longitude": 31.2357
+    },
+    "translations": [
+        {
+            "languageCode": "en",
+            "name": "Cairo Downtown Branch",
+            "city": "Cairo",
+            "country": "Egypt"
+        },
+        {
+            "languageCode": "fr",
+            "name": "Succursale du centre-ville du Caire",
+            "city": "Le Caire",
+            "country": "Égypte"
+        },
+        {
+            "languageCode": "es",
+            "name": "Sucursal del Centro de El Cairo",
+            "city": "El Cairo",
+            "country": "Egipto"
+        },
+        {
+            "languageCode": "ar",
+            "name": "فرع وسط القاهرة",
+            "city": "القاهرة",
+            "country": "مصر"
+        }
+    ]
+},
+{
+    "id": "c581913e-9c69-43d4-a8bc-59c4ca59e9f6",
+    "countryCode": "RU",
+    "timeZone": "Europe/Moscow",
+    "type": "Downtown",
+    "capacity": 110,
+    "isOneWayDropoffAllowed": false,
+    "coordinate": {
+        "latitude": 55.7558,
+        "longitude": 37.6173
+    },
+    "translations": [
+        {
+            "languageCode": "en",
+            "name": "Moscow Downtown Branch",
+            "city": "Moscow",
+            "country": "Russia"
+        },
+        {
+            "languageCode": "fr",
+            "name": "Succursale du centre-ville de Moscou",
+            "city": "Moscou",
+            "country": "Russie"
+        },
+        {
+            "languageCode": "es",
+            "name": "Sucursal del Centro de Moscú",
+            "city": "Moscú",
+            "country": "Rusia"
+        },
+        {
+            "languageCode": "ar",
+            "name": "فرع وسط موسكو",
+            "city": "موسكو",
+            "country": "روسيا"
+        }
+    ]
+},
+{
+    "id": "b9e289d0-cbf9-435c-95df-782b94e6c2f3",
+    "countryCode": "MX",
+    "timeZone": "America/Mexico_City",
+    "type": "Airport",
+    "capacity": 190,
+    "isOneWayDropoffAllowed": true,
+    "coordinate": {
+        "latitude": 19.4326,
+        "longitude": -99.1332
+    },
+    "translations": [
+        {
+            "languageCode": "en",
+            "name": "Mexico City Airport Branch",
+            "city": "Mexico City",
+            "country": "Mexico"
+        },
+        {
+            "languageCode": "fr",
+            "name": "Succursale de l'aéroport de Mexico",
+            "city": "Mexico",
+            "country": "Mexique"
+        },
+        {
+            "languageCode": "es",
+            "name": "Sucursal del Aeropuerto de la Ciudad de México",
+            "city": "Ciudad de México",
+            "country": "México"
+        },
+        {
+            "languageCode": "ar",
+            "name": "فرع مطار مدينة مكسيكو",
+            "city": "مدينة مكسيكو",
+            "country": "المكسيك"
+        }
+    ]
+},
+{
+    "id": "ba72035d-f67e-4b94-8c54-d9f14fbb9c17",
+    "countryCode": "SA",
+    "timeZone": "Asia/Riyadh",
+    "type": "Downtown",
+    "capacity": 100,
+    "isOneWayDropoffAllowed": false,
+    "coordinate": {
+        "latitude": 24.7136,
+        "longitude": 46.6753
+    },
+    "translations": [
+        {
+            "languageCode": "en",
+            "name": "Riyadh Downtown Branch",
+            "city": "Riyadh",
+            "country": "Saudi Arabia"
+        },
+        {
+            "languageCode": "fr",
+            "name": "Succursale du centre-ville de Riyad",
+            "city": "Riyad",
+            "country": "Arabie Saoudite"
+        },
+        {
+            "languageCode": "es",
+            "name": "Sucursal del Centro de Riad",
+            "city": "Riad",
+            "country": "Arabia Saudita"
+        },
+        {
+            "languageCode": "ar",
+            "name": "فرع وسط مدينة الرياض",
+            "city": "الرياض",
+            "country": "المملكة العربية السعودية"
+        }
+    ]
+},
+{
+    "id": "d3f587dc-4ba8-4f78-992c-708e95e6a431",
+    "countryCode": "AR",
+    "timeZone": "America/Argentina/Buenos_Aires",
+    "type": "Airport",
+    "capacity": 160,
+    "isOneWayDropoffAllowed": true,
+    "coordinate": {
+        "latitude": -34.6037,
+        "longitude": -58.3816
+    },
+    "translations": [
+        {
+            "languageCode": "en",
+            "name": "Buenos Aires Airport Branch",
+            "city": "Buenos Aires",
+            "country": "Argentina"
+        },
+        {
+            "languageCode": "fr",
+            "name": "Succursale de l'aéroport de Buenos Aires",
+            "city": "Buenos Aires",
+            "country": "Argentine"
+        },
+        {
+            "languageCode": "es",
+            "name": "Sucursal del Aeropuerto de Buenos Aires",
+            "city": "Buenos Aires",
+            "country": "Argentina"
+        },
+        {
+            "languageCode": "ar",
+            "name": "فرع مطار بوينس آيرس",
+            "city": "بوينس آيرس",
+            "country": "الأرجنتين"
+        }
+    ]
+}
+]

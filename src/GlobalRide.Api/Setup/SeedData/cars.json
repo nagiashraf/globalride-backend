@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1HGCM82633A123456",
+        "branchId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "carTypeId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2022,
+        "seatsCount": 5,
+        "dailyRate": 45.00,
+        "transmissionType": "Automatic",
+        "fuelType": "Gasoline"
+    },
+    {
+        "id": "5XYZH4AG4JH123456",
+        "branchId": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+        "carTypeId": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2021,
+        "seatsCount": 5,
+        "dailyRate": 50.00,
+        "transmissionType": "Automatic",
+        "fuelType": "Gasoline"
+    },
+    {
+        "id": "WAUZZZ8K9BA123456",
+        "branchId": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+        "carTypeId": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+        "make": "Audi",
+        "model": "A4",
+        "year": 2023,
+        "seatsCount": 5,
+        "dailyRate": 90.00,
+        "transmissionType": "Automatic",
+        "fuelType": "Diesel"
+    },
+    {
+        "id": "WBA8E9C07JA123456",
+        "branchId": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+        "carTypeId": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+        "make": "BMW",
+        "model": "X5",
+        "year": 2022,
+        "seatsCount": 7,
+        "dailyRate": 120.00,
+        "transmissionType": "Automatic",
+        "fuelType": "Gasoline"
+    },
+    {
+        "id": "1C4RJFBG6JC123456",
+        "branchId": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+        "carTypeId": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+        "make": "Jeep",
+        "model": "Grand Cherokee",
+        "year": 2023,
+        "seatsCount": 5,
+        "dailyRate": 85.00,
+        "transmissionType": "Automatic",
+        "fuelType": "Gasoline"
+    },
+    {
+        "id": "5YJSA1E21HF123456",
+        "branchId": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+        "carTypeId": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+        "make": "Tesla",
+        "model": "Model S",
+        "year": 2023,
+        "seatsCount": 5,
+        "dailyRate": 150.00,
+        "transmissionType": "Automatic",
+        "fuelType": "Electric"
+    },
+    {
+        "id": "JM1GJ1W58F1234567",
+        "branchId": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+        "carTypeId": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+        "make": "Mazda",
+        "model": "CX-5",
+        "year": 2022,
+        "seatsCount": 5,
+        "dailyRate": 70.00,
+        "transmissionType": "Automatic",
+        "fuelType": "Gasoline"
+    },
+    {
+        "id": "1FMCU9G97LUA12345",
+        "branchId": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+        "carTypeId": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+        "make": "Ford",
+        "model": "Escape",
+        "year": 2023,
+        "seatsCount": 5,
+        "dailyRate": 65.00,
+        "transmissionType": "Automatic",
+        "fuelType": "Gasoline"
+    }
+]

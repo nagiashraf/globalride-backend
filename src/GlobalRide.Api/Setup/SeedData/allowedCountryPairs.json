@@ -1,0 +1,50 @@
+[
+  {
+      "countryCodeFrom": "US",
+      "countryCodeTo": "CA"
+  },
+  {
+      "countryCodeFrom": "US",
+      "countryCodeTo": "MX"
+  },
+  {
+      "countryCodeFrom": "FR",
+      "countryCodeTo": "ES"
+  },
+  {
+      "countryCodeFrom": "FR",
+      "countryCodeTo": "DE"
+  },
+  {
+      "countryCodeFrom": "ES",
+      "countryCodeTo": "FR"
+  },
+  {
+      "countryCodeFrom": "AE",
+      "countryCodeTo": "SA"
+  },
+  {
+      "countryCodeFrom": "DE",
+      "countryCodeTo": "FR"
+  },
+  {
+      "countryCodeFrom": "DE",
+      "countryCodeTo": "IT"
+  },
+  {
+      "countryCodeFrom": "IT",
+      "countryCodeTo": "FR"
+  },
+  {
+      "countryCodeFrom": "JP",
+      "countryCodeTo": "KR"
+  },
+  {
+      "countryCodeFrom": "AU",
+      "countryCodeTo": "NZ"
+  },
+  {
+      "countryCodeFrom": "BR",
+      "countryCodeTo": "AR"
+  }
+]
